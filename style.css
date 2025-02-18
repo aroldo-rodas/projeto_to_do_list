@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Exo 2", serif;
+    font-style: normal;
+    font-weight: 500;
+    text-align: center;
+}
+
+h1 {
+    color: #0B390C;
+}
+
+.hide {
+    display: none;
+}
+
+#adicionar-tarefa {
+    border: 1px solid black;
+    font-size: 15;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+#container {
+    width: 600px;
+    border: 1px solid black;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 600px;
+    min-height: 50px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #42703E;
+    color: white;
+}
+
+.item span {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    background-color: #344632;
+    color: white;
+}
+
+.item span:hover {
+    cursor: pointer;
+}
+
+.item p {
+    width: 520px;
+    
+}
+
+#caixa-add {
+    width: 600px;
+    height: 85px;
+    border: 1px solid black;
+    position: relative;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+#caixa-add input {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18;
+    border-style: none;
+    border-bottom: 3px solid #0B390C;
+    padding: 3px;
+    text-align: center;
+    size: 25px;
+}
+
+#caixa-add button {
+    border: 1px solid black;
+    font-size: 15;
+    padding: 10px;
+    margin-top: 18px;
+    border-radius: 20px;
+}
