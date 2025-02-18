@@ -1,14 +1,14 @@
 # projeto_to_do_list
 Aplicação simples de um sistema de To-Do List, utilizando JavaScript.
 
-### Passo 1
-Idealização das janelas utilizando o [excalidrawn](https://excalidraw.com/).
+## Passo 1
+Idealização das janelas utilizando o [excalidrawn](https://excalidraw.com/)
 ![projeto-desenho](https://i.postimg.cc/z8CtJ6zV/Captura-de-tela-de-2025-02-18-11-50-17.png).
 
-### Passo 2
+## Passo 2
 Escrever o html e css.
 
-### Passo 3
+## Passo 3
 Lógica por meio do JS e ajustos no html.
 
 ## Conceitos Utilizados no Código
