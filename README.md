@@ -2,7 +2,8 @@
 Aplicação simples de um sistema de To-Do List, utilizando JavaScript.
 
 ## Passo 1
-Idealização das janelas utilizando o [excalidrawn](https://excalidraw.com/)
+Idealização das janelas utilizando o [excalidrawn](https://excalidraw.com/).
+<br>
 ![img](https://i.postimg.cc/z8CtJ6zV/Captura-de-tela-de-2025-02-18-11-50-17.png)
 
 ## Passo 2
@@ -30,3 +31,10 @@ Lógica por meio do JS e ajustos no html.
 
 - **Clone de Elementos**  
   Uso de `cloneNode(true)` para duplicar itens sem afetar os originais.
+
+## Resultado
+Página Principal.
+![img](https://iili.io/2ywMwH7.png)
+
+Adicionar Tarefa.
+![img](https://iili.io/2ywXKF4.png)
